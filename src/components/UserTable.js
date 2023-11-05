@@ -13,7 +13,7 @@ function UserTable() {
             <div key={entry.id}>{entry.id}</div>
             <div key={entry.id}>{entry.name}</div>
             <div key={entry.id}>{entry.email}</div>
-            <div key={entry.id}>{entry.divhone}</div>
+            <div key={entry.id}>{entry.phone}</div>
             <div key={entry.id}>{entry.website}</div>
           </div>
         );
